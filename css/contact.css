@@ -1,0 +1,35 @@
+
+body{
+    max-width: auto;;
+    box-sizing: border-box;
+    margin: 0;
+    border: 1px solid black;
+    
+}
+
+.container{
+    
+    margin: 20px;
+    border: 1px solid yellowgreen;
+}
+div{
+    padding-bottom: 20px
+}
+
+span{
+    padding-top: 20px; 
+}
+
+button{
+    border: 1.5px solid black;
+    width: 130px;
+    height: 45px;
+    text-transform: uppercase;
+    background: white;
+    letter-spacing: 1px;
+}
+
+footer{
+    height: 100px;
+    background: rgb(209, 199, 199)
+}
